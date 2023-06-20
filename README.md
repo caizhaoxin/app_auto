@@ -33,4 +33,6 @@ value就是ck_eles_text（上面这个例子我简单写成hash，具体看一�
 
 跑出来的数据例子可以参考下目录里的case文件夹
 
+要跑的app我已经放到了服务器1里面的：/data/gosec/app300
+
 TODO： 画一个调用图
