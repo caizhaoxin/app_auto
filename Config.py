@@ -9,7 +9,7 @@ class Config(object):
         self.app_path = "E:\\app\\"
         # 跑出来的数据存放地址
         self.app_data_path = "G:\\app_audit\\"
-        # 每个app跑的时间
+        # 每个app跑的时间，以秒为单位
         self.ever_app_run_time = 60*15
 
         # 自动收集的运行时数据,不需要改动

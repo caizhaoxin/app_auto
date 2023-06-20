@@ -1,6 +1,10 @@
 ### 运行
-在Config.py中更改要测试的包名
+在Config.py中设置要跑的app的路径
 ```commandline
-self.target_pkg_name = "com.example.packagename"
+self.app_path = "E:\\app\\"
 ```
-运行run.py
+在Config.py中设置跑出来的数据存放地址
+```commandline
+self.app_data_path = "G:\\app_audit\\"
+```
+运行run.py，然后。。。。睡觉
