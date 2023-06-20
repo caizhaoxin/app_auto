@@ -1,0 +1,7 @@
+/dumpjson/
+/__pycache__/
+/Log/
+/.idea/
+/SavedInstance/
+*.pyc
+.DS_Store
