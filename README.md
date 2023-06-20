@@ -31,5 +31,6 @@ ck_eles_text通过下面这个代码编码转化后就是在文件夹里面存�
 其中key就是：下一个界面的activity name - 跳转点击的坐标位置 - 文本
 value就是ck_eles_text（上面这个例子我简单写成hash，具体看一看实际的例子）
 
+跑出来的数据例子可以参考下目录里的case文件夹
 
 TODO： 画一个调用图
